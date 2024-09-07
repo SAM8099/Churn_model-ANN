@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/New%20folder/ANN%20model/mlruns/0/b54ad0a5fd964c5382dd3dfe255ec186/artifacts
+end_time: 1721727859217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b54ad0a5fd964c5382dd3dfe255ec186
+run_name: exultant-cub-152
+run_uuid: b54ad0a5fd964c5382dd3dfe255ec186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721727839887
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/New%20folder/ANN%20model/mlruns/166809893299617298/a54dcf06c34d4213b7b38f4f9666e587/artifacts
+end_time: 1720281947514
+entry_point_name: ''
+experiment_id: '166809893299617298'
+lifecycle_stage: active
+run_id: a54dcf06c34d4213b7b38f4f9666e587
+run_name: churn_model_run20240706--213540
+run_uuid: a54dcf06c34d4213b7b38f4f9666e587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720281947510
+status: 4
+tags: []
+user_id: HP

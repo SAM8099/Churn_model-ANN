@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/New%20folder/ANN%20model/mlruns/166809893299617298/824dc4bf03ef4d96a995387a54692e38/artifacts
+end_time: 1720285997033
+entry_point_name: ''
+experiment_id: '166809893299617298'
+lifecycle_stage: active
+run_id: 824dc4bf03ef4d96a995387a54692e38
+run_name: wistful-crow-73
+run_uuid: 824dc4bf03ef4d96a995387a54692e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720285984992
+status: 3
+tags: []
+user_id: HP

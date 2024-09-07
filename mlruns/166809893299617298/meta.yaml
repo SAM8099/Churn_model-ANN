@@ -1,0 +1,6 @@
+artifact_location: file:///c:/New%20folder/ANN%20model/mlruns/166809893299617298
+creation_time: 1720281947355
+experiment_id: '166809893299617298'
+last_update_time: 1720281947355
+lifecycle_stage: active
+name: churn_model_time20240706
