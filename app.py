@@ -8,8 +8,16 @@ import pandas as pd
 import pickle
 
 model = tf.keras.models.load_model('model.h5')
+
 with open('label_encoder_gender.pkl', 'rb') as file:
     label_encoder_gender = pickle.load(file)
+
+# Create Streamlit app
+st.title("Churn Prediction")
+
+# Load data
+df = pd.read_csv('Churn_Modelling.csv')
+
 
 with open('geo_encoder.pkl', 'rb') as file:
     onehot_encoder_geo = pickle.load(file)
